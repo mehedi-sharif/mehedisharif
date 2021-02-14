@@ -1,8 +1,8 @@
 ############################ Default configuration #########################
-baseURL = "https://examplesite.com/"
+baseURL = "https://mehedisharif.com/"
 languageCode = "en-us"
 # site title 
-title = "Jeff Loughridge | Personal Blog"
+title = "Mehedi Sharif | Personal Blog"
 # theme
 theme = "mehedisharif"
 # post pagination
@@ -45,13 +45,13 @@ link = "plugins/search/search.js"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 2
 
 # main menu
 [[menu.main]]
 URL = "about"
 name = "about"
-weight = 2
+weight = 1
 
 
 # footer menu
@@ -101,8 +101,8 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm Jeff Loughridge. <br> I help people make the  worlds best software"
-image = "images/banner/banner-2.png"
+title = "Hi, I'm Mehedi Sharif. <br>Serial Entrepreneur, Code Lover, Designer, Open Source Enthusiastic, Optimus Prime, Biker."
+image = "images/banner/mehedisharif.jpeg"
 
 
 ######################## call to action ###############################
@@ -120,13 +120,13 @@ link = "https://gethugothemes.com/shop/"
 ############################## Social Site ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://fb.com/mehedi.titas"
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/mehedi_titas"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/mehedi-sharif"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/mehedisharif/"
