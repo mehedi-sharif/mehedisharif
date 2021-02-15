@@ -9,7 +9,7 @@ layout : about
 author:
   enable : true
   image : "images/about/about.png"
-  name : "Jeff Loughridge"
+  name : "Mehedi Sharif"
   bio : "I create premium designs and technology"
   content : "I was born in Los Angeles in 1980.I'm 23 years old creative web designer, specializing in User Interface Design and Development.Veritatis culpa sunt alias esse fuga accusamus nostrum, iusto neque."
   signature : "images/about/signature.png"

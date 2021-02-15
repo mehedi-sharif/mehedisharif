@@ -1,9 +1,8 @@
 /*  typography */
-@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Playfair+Display:wght@400;500&display=swap');
 body {
   line-height: 1.5;
-  font-family: $primary-font;
+  font-family: $text-font;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: $text-color;
@@ -14,7 +13,7 @@ p, .paragraph {
   color: $text-color;
   font-size: 18px;
   line-height: 1.7;
-  font-family: $primary-font;
+  font-family: $text-font;
 }
 
 
@@ -27,7 +26,7 @@ a {
 
 h1,h2,h3,h4,h5,h6 {
   color: $text-color-dark;
-  font-family: $primary-font;
+  font-family: $title-font;
   font-weight: 600;
   line-height: 1.2;
   a{
